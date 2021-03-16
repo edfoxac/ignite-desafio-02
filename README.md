@@ -1,5 +1,3 @@
 # ignite-desafio-02
 
-asdas
-
-dsadad
+Update desafio 02
